@@ -1,0 +1,136 @@
+body {
+  background-color: #F5EEDC;
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  margin: 0;
+}
+
+.middle-container {
+  background-color: #F5EEDC;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.top {
+  position: absolute;
+  right: 400px;
+  top: 200px;
+}
+
+hr{
+  color: #577BC1;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+
+.profile{
+  color: #40514E ;
+  font-weight: bold;
+}
+
+.bottom {
+  position: absolute;
+  left: 400px;
+  top: 350px;
+}
+
+h1 {
+  font-family: 'Corinthia', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Readex Pro', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Readex Pro', sans-serif;
+  color: #11999E;
+}
+
+p{
+font-family: 'Readex Pro', sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.lefty{
+  text-align: left;
+}
+
+.image1{
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image2{
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.copyright{
+  color: #EAF6F6;
+}
+
+a{
+  font-family: 'Readex Pro', sans-serif;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+a:hover{
+  color: #ffffff;
+}
